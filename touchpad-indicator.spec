@@ -50,3 +50,13 @@ cp pyudev/*.py %{buildroot}/%{_datadir}/touchpad-indicator/pyudev/
 %{_iconsdir}/hicolor/scalable/status/*.svg
 %{_iconsdir}/hicolor/scalable/apps/%{name}.svg
 
+
+
+%changelog
+* Fri Apr 06 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.7.6.2-1
++ Revision: 789547
+- imported package touchpad-indicator
+
+
+* Mon Sep 19 2011 dillj <dillj@unity-linux.org> 0.7.6.2-1-unity2011
+- import for Unity
