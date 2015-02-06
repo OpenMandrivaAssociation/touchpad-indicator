@@ -1,7 +1,7 @@
 Summary:	An indicator to show the status of the touchpad
 Name:		touchpad-indicator
 Version:	0.7.6.2
-Release:	1
+Release:	2
 License:	GPLv3
 Group:		System/Configuration/Hardware
 Url:		http://launchpad.net/touchpad-indicator/
