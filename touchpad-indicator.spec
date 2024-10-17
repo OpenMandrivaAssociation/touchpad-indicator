@@ -4,7 +4,7 @@ Version:	0.7.6.2
 Release:	2
 License:	GPLv3
 Group:		System/Configuration/Hardware
-Url:		http://launchpad.net/touchpad-indicator/
+Url:		https://launchpad.net/touchpad-indicator/
 Source0:	http://launchpad.net/touchpad-indicator/0.7/0.7.6.2/+download/%{name}_%{version}.orig.tar.xz
 
 Requires:	pyusb
